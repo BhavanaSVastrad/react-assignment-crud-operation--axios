@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "vikram",
+      "email": "vikram@gmail.com",
+      "phone": "999999999",
+      "gender": "Male",
+      "role": "Manager"
+    },
+    {
+      "id": 6,
+      "name": "Bhavana",
+      "email": "bhavana@gmail.com",
+      "phone": "09164164511",
+      "gender": "Female",
+      "role": "Manager"
+    },
+    {
+      "id": 8,
+      "name": "Bhuvana",
+      "email": "bhuvana@gmail.com",
+      "phone": "08951889993",
+      "gender": "Male",
+      "role": "Manager"
+    },
+    {
+      "id": 9,
+      "name": "Sudeep",
+      "email": "sudee@gmail.com",
+      "phone": "908908767",
+      "gender": "Male",
+      "role": "Manager"
+    },
+    {
+      "id": 10,
+      "name": "Deepa",
+      "email": "d@gmail.com",
+      "phone": "1234567",
+      "gender": "Female",
+      "role": "HR"
+    }
+  ]
+}
